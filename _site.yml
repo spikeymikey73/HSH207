@@ -1,43 +1,37 @@
-name: "HSH207"
-title: "HSH207"
-description: "HSH207 - Socio-Economic Status and Health"
-output_dir: "docs"
+name: HSH207
+title: HSH207 - Socio-Economic Status and Health
+output_dir: docs
 navbar:
-  left:
-    - text: "HSH207"
-      menu:
-        - text: "HBS110"
-          href: https://spikeymikey73.github.io/HBS110/
-        - text: "HPS121"
-          href: https://spikeymikey73.github.io/HPS121/
-        - text: "HPS201"
-          href: https://spikeymikey73.github.io/HPS201/
-        - text: "HSH105"
-          href: https://spikeymikey73.github.io/HSH105/
-        - text: "HSH206"
-          href: https://spikeymikey73.github.io/HSH206/
-        - text: "SIT191"
-          href: https://spikeymikey73.github.io/SIT191/
+  title: HSH207
   right:
-    - text: "Unit Guide"
+    - icon: fa fa-list fa-lg
       href: index.html
-    - text: "Reading List"
+    - icon: fa fa-book fa-lg
       href: Readings.html
-    - text: "Content"
+    - icon: fa fa-sticky-note fa-lg
       menu:
-        - text: "Week 1"
+        - text: Week 1
           href: Week1.html
-        - text: "Week 2"
+        - text: Week 2
           href: Week2.html
-        - text: "Week 3"
+        - text: Week 3
           href: Week3.html
-        - text: "Week 4"
+        - text: Week 4
           href: Week4.html
-        - text: "Week 5"
+        - text: Week 5
           href: Week5.html
-        - text: "Week 6"
+        - text: Week 6
           href: Week6.html
-        - text: "Week 7"
+        - text: Week 7
           href: Week7.html
+        - text: Week 8
+          href: Week8.html
+        - text: Week 9
+          href: Week9.html
+        - text: Week 10
+          href: Week10.html
+        - text: Week 11
+          href: Week11.html
 output:
-  html_document
+  html_document:
+    theme: cosmo
