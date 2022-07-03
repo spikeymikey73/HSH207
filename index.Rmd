@@ -1,0 +1,9 @@
+---
+name: "HSH207"
+title: "Unit Schedule"
+description: "HSH207 - Socio-Economic Status and Health"
+output:
+  html_document
+---
+
+Contents of Unit Guide go here!
