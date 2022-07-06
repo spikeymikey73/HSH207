@@ -2,8 +2,19 @@
 name: "HSH207"
 title: "Unit Schedule"
 description: "HSH207 - Socio-Economic Status and Health"
-output:
-  html_document
 ---
 
-Contents of Unit Guide go here!
+| WEEK | COMMENCING        | TOPIC                                                                             | ASSESSMENT DUE DATE                                                                                   |
+|------|-------------------|-----------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| 1    | 11 July 2022      | What is SES?<br>An introduction to socio-economic status                          |  -                                                                                                    |
+| 2    | 18 July 2022      | How do we understand SES and health?<br>Theoretical frameworks                    |  -                                                                                                    |
+| 3    | 25 July 2022      | How do we understand SES and health?<br>Trends, measurements and outcomes         |  -                                                                                                    |
+| 4    | 1 August 2022     | What are the impacts of SES and health?<br>Poverty                                |  -                                                                                                    |
+| 5    | 8 August 2022     | Who is influenced by SES and health?<br>Families with children                    | Assessment 1 due by 8:00pm AEST Thursday 11 August 2022                                               |
+| 6    | 22 August 2022    | Who is influenced by SES and health?<br>Adults                                    | Assessment 3 (Group/team charter) due by 8:00pm AEST Thursday 25 August 2022                          |
+| 7    | 29 August 2022    | Who is influenced by SES and health?<br>Persons with disabilities                 |  -                                                                                                    |
+| 8    | 5 September 2022  | Who is influenced by SES and health?<br>Culturally diverse groups                 | Assessment 2 due by 8:00pm AEST Thursday 8 September 2022                                             |
+| 9    | 12 September 2022 | How does society attempt to address SES and health?<br>SES and the health system  | Assessment 3 (Presentation slides with speaker notes/ narration) due by 8.00pm AEST 15 September 2022 |
+| 10*  | 19 September 2022 | How does society attempt to address SES and health?<br>SES and the welfare system | Assessment 3 (Presentations) due this week - during seminars                                          |
+| 11   | 26 September 2022 | What do we now know about SES and health?<br>Conclusion                           | Assessment 3 (Presentations) due this week - during seminars                                          |
+| 12   | 3 October 2022    | Study period                                                                      | Self and peer assessment due by 8:00pm AEST Thursday 6 October 2022                                   |
