@@ -1,6 +1,5 @@
 ---
 title: "Reading List"
-description: "HSH207 - Socio-Economic Status and Health"
 ---
 
 | Week | Title                                                                                                                                                                                                     | Type     | Item Link                                                                              | Importance          | Note for Student |

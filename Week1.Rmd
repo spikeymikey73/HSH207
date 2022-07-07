@@ -1,5 +1,5 @@
 ---
-title: 'Week 1: xyz'
+title: 'Week 1: What is SES? An introduction to socio-economic status'
 ---
 
 ```{r setup, include=FALSE}
