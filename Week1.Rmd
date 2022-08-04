@@ -35,16 +35,26 @@ The social gradient refers to a continuous gradient across the whole population:
 
 <abbr title="The differences in health status between population groups. For example, the difference in life expectancy between Aboriginal and Torres Strait Islanders and non-indigenous Australians.">**Health Inequality**</abbr>
 
-Health inequities can be defined more broadly as differences in health status between population groups, but these are "socially produced, systematic in their unequal distribution across the population, avoidable and unfair" (VicHealth, 2015, p. 4). The difference in life expectancy between Aboriginal and Torres Strait Islanders and non-Indigenous Australians therefore represents a health inequity, due to unequal access to the resources needed for optimal health and wellbeing.
+Health inequities can be defined more broadly as differences in health status between population groups:
 
-To address the health inequities in our society, we need to focus on the the social conditions that shape health, and the social processes that distribute them unequally across the population - the social determinants of health inequities (VicHealth, 2015). Indeed, the social determinants of health are considered to be largely responsible for health inequities (AIHW, 2018). You might like to read more about the social determinants and Aboriginal and Torres Strait Islanders via the Australian Institute of Health and Welfare.
+-   These inequities are "socially produced, systematic in their unequal distribution across the population, avoidable and unfair" (VicHealth, 2015, p. 4). 
+-   The difference in life expectancy between Aboriginal and Torres Strait Islanders and non-Indigenous Australians therefore represents a health inequity, due to unequal access to the resources needed for optimal health and wellbeing.
+
+To address the health inequities in our society, we need to focus on:
+
+-   The the social conditions that shape health
+-   The social processes that distribute them unequally across the population (or the social determinants of health inequities) (VicHealth, 2015).
+
+The social determinants of health are considered to be largely responsible for health inequities (AIHW, 2018)
 
 ## Avoidable mortality
 
 <abbr title="a simple and practical population-based method of counting untimely and unnecessary deaths from diseases for which effective public health and medical interventions are available.">**Avoidable mortality**</abbr>
 
-An excess of deaths due to preventable causes should suggest shortcomings in the healthcare system that warrant further attention" (Department of Health and Human Services, 2020, para. 1).
+An excess of deaths due to preventable causes should suggest shortcomings in the healthcare system that warrant further attention.
 
-Although avoidable mortality is generally declining across Australia, it is important to recognise that it is not doing so equally across the whole population. For example, avoidable mortality varies according to gender (with higher avoidable mortality in men), geography (higher in rural and remote areas compared to urban), and socio-economic status (higher avoidable mortality in most disadvantaged quintiles).
+While avoidable mortality is generally declining across Australia, it is not doing so equally across the whole population:
 
-The Victorian Health Information Surveillance System [VHISS] (2020) allows us to examine avoidable mortality rates across different population groups and locations within Victoria. For example, among women aged 30-34 in the most disadvantaged quintile, the avoidable mortality rate was 28.42 per 100,000 in 2010-2014. This was compared to 23.79 per 100,000 females in the least disadvantaged quintile.
+-   higher avoidable mortality in men than women (gender)
+-   higher in rural and remote areas compared to urban (geography)
+-   higher avoidable mortality in most disadvantaged quintiles. (socio-economic status)
