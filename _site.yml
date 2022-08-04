@@ -10,7 +10,7 @@ navbar:
       href: Readings.html
     - icon: fa fa-sticky-note fa-lg
       menu:
-        - text: "Week 1"
+        - text: "Week 1: What Is SES?"
           href: Week1.html
         - text: "Week 2"
           href: Week2.html
