@@ -1,0 +1,67 @@
+---
+bibliography: References.bib
+linestretch: 1.5
+fontsize: 12pt
+csl: apa.csl
+output:
+  pdf_document:
+    includes:
+      before_body: title.tex
+---
+
+\setlength{\parindent}{3em}
+
+# Question 1
+
+**Through the 2022-23 Budget, the Government aims to invest in the lives of women so they have opportunities to reach their full potential (Australian Government, 2022a).**
+
+\noindent \textbf{a. Define ‘health inequality’ and ‘health inequity’.}
+
+Health inequality has been broadly defined by @cohen as the physical or biological differences between individuals, while @moore defines health inequity as a socially determined difference between individuals, as evidenced by their position within the social gradient. @garrison further delineates the differences between health inequality and health inequity as either physical limitations (such as intelligence or personality), or mental (with influences being imparted on us by our environments) respectively, suggesting that the effects of these characteristics produce differing impacts on the individual. Further to these descriptions above, @moore suggests that exposure to health inequity in early childhood can adversely increase health inequality if ready access to quality and timely healthcare is difficult to obtain.
+
+\noindent\textbf{b. Provide one example of a health outcome that represents a health inequality for Australian women compared to Australian men. Explain why this is an example of an inequality.}
+
+Health inequality has been described as a physical or biological difference in the way men and women's bodies function [@cohen]. One such example of this inequality identifies that Women above the age of 45 are more likely to experience comorbid illnesses than men, and for longer periods of time @aih. For example, @fetherstone demonstrates that 10.4% of women as compared with 7.1% of men experience longer periods of illness as a result of comorbidities, with the incidence of one or more chronic illnesses being determined by biological forces, rather than social constraints.
+
+
+\noindent\textbf{c. Provide one example of a health outcome that represents a health inequity for Australian women compared to Australian men. Explain why this represents an example of a health inequity.}
+
+
+
+\noindent \textbf{d. In the 2022-23 Budget, the Government proposes to invest in improving (i) women’s safety; (ii) health and wellbeing; and (iii) economic security and opportunities to become leaders (Australian Government, 2022a; 2022b). Choose one of these priorities and briefly discuss how this might address the health inequity you identified in part C.}
+
+# Question 2
+
+\noindent \textbf{The Government is providing an additional $1.5 billion for initiatives that are specifically targeting Aboriginal and Torres Strait Islander peoples in the 2022-23 Budget (Australian Government, 2022a). This acknowledges the need to overcome the significant inequalities experienced by Australia’s first peoples.}
+
+
+
+\noindent \textbf{a. What is the ‘social gradient’?}
+
+
+
+\noindent \textbf{b. Use both the neo-material and psychosocial hypotheses to explain the connection between socio-economic status and health among Aboriginal and Torres Strait Islander peoples.}
+
+
+
+\noindent \textbf{c. Referring to the 2022-23 Budget, the Government is proposing to invest $8.6 million in the Closing the Gap Policy Partnership on Social and Emotional Wellbeing. How might this impact the socio-economic status and health of Aboriginal and Torres Strait Islander peoples?}
+
+
+
+# Question 3
+
+\noindent \textbf{The Government plans to assist younger Australians to enter the workforce by investing $52.8 million in ReBoot, a program aimed to support young people at risk of long-term unemployment by building their life and work skills (Australian Government, 2022b).}
+
+
+
+\noindent \textbf{a. Based on this statement and your readings from week 3, which two measures of socio-economic position (from the four discussed in Week 3) relate to investment in ReBoot? Describe how each of these two concepts measure socio-economic position.}
+
+
+
+\noindent \textbf{b. Referring to the benefits and limitations of each measurement outlined in part a, justify which would be considered the more effective measure of socio-economic position for young adult Australians.}
+
+\noindent \textbf{c. How might access to work improve an individual’s socio-economic status and their health?}
+
+\newpage
+
+# References 
